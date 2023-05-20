@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dark Green Dot
+  - Green Dot
+  - Indigo Dot
+  - Orange Dot
+  - Red Dot
+  - Salmon Dot
+  - Teal Dot
+  - Yellow Dot
+  - Adjacent Marker
+  - rainbow bomb
+  - Tile Background
+  - Color
+  - Breakable
+  - Board
+  - Lock
+  - Ice
+  - Column Arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dark Green Dot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Markers
+    uniqueID: 1272208507
+    locked: 0
